@@ -1,0 +1,257 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe assembly's progress.
+The file is located at C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

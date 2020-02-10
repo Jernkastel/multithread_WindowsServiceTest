@@ -1,0 +1,250 @@
+﻿Installing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Uninstalling assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Installing service TestService...
+Creating EventLog source TestService in log Application...
+Rolling back assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Restoring event log to previous state for source TestService.
+Uninstalling assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Removing EventLog source TestService.
+Warning: The source TestService is not registered on the local machine.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Installing service TestService...
+Creating EventLog source TestService in log Application...
+Rolling back assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Restoring event log to previous state for source TestService.
+Uninstalling assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Removing EventLog source TestService.
+Warning: The source TestService is not registered on the local machine.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Removing EventLog source TestService.
+Warning: The source TestService is not registered on the local machine.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Uninstalling assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Uninstalling assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+   logtoconsole = 
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Installing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Installing service TestService...
+Creating EventLog source TestService in log Application...
+Rolling back assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Restoring event log to previous state for source TestService.
+Uninstalling assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Uninstalling assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Installing service TestService...
+Creating EventLog source TestService in log Application...
+Rolling back assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Restoring event log to previous state for source TestService.
+Uninstalling assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Removing EventLog source TestService.
+Warning: The source TestService is not registered on the local machine.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Uninstalling assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.InstallLog
+   assemblypath = C:\Users\Max Jern\source\repos\APR400_lab4_max_jern\APR400_lab4_max_jern_WindowsService\bin\Debug\APR400_lab4_max_jern_WindowsService.exe
